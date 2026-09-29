@@ -1,2 +1,2 @@
-Ali 
+name 
 email@myseneca.ca
